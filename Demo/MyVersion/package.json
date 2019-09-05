@@ -1,0 +1,15 @@
+{
+  "name": "MyVersion",
+  "version": "1.0.0",
+  "description": "MyVersion of Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.6"
+  }
+}
